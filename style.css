@@ -1,0 +1,25 @@
+#bannerpic {
+    width: 100%;
+    background-image: url(https://cdn.discordapp.com/attachments/860770962282905620/1159933543053541497/planning.jpg?ex=6532d34b&is=65205e4b&hm=2dcac5a695f9aa6698efd66052930cf68b1d0c1b9b7b02a9c8d5d1416d2b7c8a&);
+    height: 405px;
+    background-color: purple;
+    background-size: cover;
+    margin-bottom: 25px;
+}
+
+
+.card-title {
+    background-color: grey;
+}
+
+.card-body {
+
+    padding-top: 15px;
+
+}
+
+
+.h2 {
+    padding-top: 200px;
+    flex-direction: column;
+}
